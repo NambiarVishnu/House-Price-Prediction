@@ -1,0 +1,35 @@
+:root {
+    --text-Color: #EC7272;
+    --text-label: #ffffff;
+    --alert:#FFF2F2;
+  }
+
+.css-10trblm{
+    color: var(--text-Color);
+}
+
+/* alert */
+.st-bb {
+    background-color: var(--alert);
+}
+
+.st-ba{
+    color: var(--text-Color);
+}
+/* button */
+.edgvbvh9{
+    -webkit-transition: all .2s;
+    transition: all .2s;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    min-width: 120px;
+    border-color: #EC7272;
+    color: #EC7272;
+}
+
+.css-6kekos :hover,
+.css-6kekos :focus {
+    color: #FFFFFF;
+    border-color:#2196F3;
+    background-color: #2196F3;
+}
